@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple_lineal_form</string>
+    <string name="surname">Фамилия</string>
+    <string name="name">Имя</string>
+    <string name="last_name">Отчество</string>
+    <string name="year">Год</string>
+    <string name="school">Школа</string>
+    <string name="city">Город</string>
+    <string name="exp">Опыт программирования</string>
+    <string name="langs">Знание языков программирования</string>
+</resources>
